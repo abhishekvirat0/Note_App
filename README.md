@@ -1,3 +1,5 @@
+## If you find this App Useful, Please Endorse me on [LinkedIn](https://www.linkedin.com/in/abhishekvirat/)
+
 # Note_App
  A simple Note keeping app that uses SQLite Database to keep notes and uses recycler view to show list of notes.
 
